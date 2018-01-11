@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25813",
 "files": {
+	"\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
 	"\/.sass-cache\/0d7f180771e15819f21c1d84c0aec36a83d0e3a3\/_variables.sassc": {
 		"ft": 8192,
 		"oA": 1,
@@ -1851,6 +1857,28 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "\/build\/node_modules",
+		"oF": 0
+		},
+	"\/package-lock.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/package-lock-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/prices.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -1979,6 +2007,15 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/server.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/min\/server-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/vendor\/bourbon\/.bower.json": {
 		"ft": 524288,
