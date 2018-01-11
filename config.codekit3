@@ -1649,6 +1649,102 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/public\/css\/changa-bold-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/changa-bold-webfont.woff",
+		"oF": 0
+		},
+	"\/public\/css\/changa-bold-webfont.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/changa-bold-webfont.woff2",
+		"oF": 0
+		},
+	"\/public\/css\/changa-extrabold-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/changa-extrabold-webfont.woff",
+		"oF": 0
+		},
+	"\/public\/css\/changa-extrabold-webfont.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/changa-extrabold-webfont.woff2",
+		"oF": 0
+		},
+	"\/public\/css\/changa-extralight-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/changa-extralight-webfont.woff",
+		"oF": 0
+		},
+	"\/public\/css\/changa-extralight-webfont.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/changa-extralight-webfont.woff2",
+		"oF": 0
+		},
+	"\/public\/css\/changa-light-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/changa-light-webfont.woff",
+		"oF": 0
+		},
+	"\/public\/css\/changa-light-webfont.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/changa-light-webfont.woff2",
+		"oF": 0
+		},
+	"\/public\/css\/changa-medium-webfont.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/changa-medium-webfont.ttf",
+		"oF": 0
+		},
+	"\/public\/css\/changa-medium-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/changa-medium-webfont.woff",
+		"oF": 0
+		},
+	"\/public\/css\/changa-medium-webfont.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/changa-medium-webfont.woff2",
+		"oF": 0
+		},
+	"\/public\/css\/changa-regular-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/changa-regular-webfont.woff",
+		"oF": 0
+		},
+	"\/public\/css\/changa-regular-webfont.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/changa-regular-webfont.woff2",
+		"oF": 0
+		},
+	"\/public\/css\/changa-semibold-webfont.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/changa-semibold-webfont.ttf",
+		"oF": 0
+		},
+	"\/public\/css\/changa-semibold-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/changa-semibold-webfont.woff",
+		"oF": 0
+		},
+	"\/public\/css\/changa-semibold-webfont.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/css\/changa-semibold-webfont.woff2",
+		"oF": 0
+		},
 	"\/public\/css\/fonts-min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -1765,7 +1861,7 @@
 		"oAP": "\/public\/fonts\/Changa\/OFL.txt",
 		"oF": 0
 		},
-	"\/public\/img\/album.JPG": {
+	"\/public\/img\/album.jpg": {
 		"ft": 16384,
 		"iS": 2994170,
 		"oA": 0,
