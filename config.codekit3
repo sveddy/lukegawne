@@ -549,16 +549,6 @@
 		"oAP": "\/.sass-cache\/ddc9f9ec384598f0eb3e89bf74578e3b72e1ea3d\/_bourbon.scssc",
 		"oF": 0
 		},
-	"\/css\/app.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/app-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/min\/server-min.js": {
 		"ft": 64,
 		"mi": 1,
@@ -604,8 +594,8 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/app.css",
-		"oF": 0,
+		"oAP": "\/public\/css\/app.css",
+		"oF": 2,
 		"oS": 0,
 		"uL": 1
 		},
