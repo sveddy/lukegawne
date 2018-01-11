@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Amelia Walks Your Dog</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+<script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.scrollTo.js"></script>
+<link rel="stylesheet" href="css/fonts.css" />
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/app.css">
+
+    <link rel="stylesheet" href="js/java.js">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.png">
+
+</head>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<nav class="menu">
+    <div class="container">
+        <ul class="menu__list" id="nav">
+            <div class="logo-icon"></div>
+            <li class="menu__item  enu-item--current">
+                <a class="menu__link" href="#topbar">Home</a>
+            </li>
+            <li class="menu__item">
+                <a class="menu__link" href="#about">About</a>
+            </li>
+            <li class="menu__item">
+                <a class="menu__link" href="#price">Prices</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+<nav class="menu-mobile" id="menu-mobile">
+    <span class="expand">open</span>
+    <ul class="menu__list" id="nav">
+        <div class="logo-icon"></div>
+        <li class="menu__item  enu-item--current">
+            <a class="menu__link" href="#topbar">Home</a>
+        </li>
+        <li class="menu__item">
+            <a class="menu__link" href="#about">About</a>
+        </li>
+        <li class="menu__item">
+            <a class="menu__link" href="#price">Prices</a>
+        </li>
+    </ul>
+</nav>
+<div class="social-media">
+    <ul>
+        <li>
+            <a target="_blank"  href="https://www.youtube.com/channel/UCOf6u7i2shf695JZfXlW1Hg">
+                <span class="social-icon social-icon--youtube"></span>
+            </a>
+        </li>
+        <li >
+            <a target="_blank" href="https://twitter.com/lukegawne?lang=en">
+                <span class="social-icon social-icon--twitter"></span>
+            </a>
+        </li>
+        <li>
+            <a target="_blank" href="https://www.facebook.com/Luke-Gawne-271200276269576/">
+                <span class="social-icon social-icon--facebook"></span>
+            </a>
+        </li>
+        <li>
+            <a target="_blank" href="https://www.instagram.com/lukegawne/">
+                <span class="social-icon social-icon--instagram"></span>
+            </a>
+        </li>
+    </ul>
+</div>
+<div class="hero-unit">
+    <div class="album">
+        <div class="album__image"></div>
+        <div class="album__content">
+            <span class="album__content__text">New single "Jungle" out now</span>
+            <a href="https://www.youtube.com/watch?v=I8JX9K0lVHM" target="_blank" class="album__content__btn">Listen Now</a>
+        </div>
+    </div>
+</div>
+<div class="angled-background-container">
+    <div class="angled-background" id="angled-bg"></div>
+</div>
+
+
+<script>
+$(document).ready(function(){
+    $(".expand").click(function(){
+        $(".menu__list").toggleClass("show");
+    });
+});
+</script> 
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>

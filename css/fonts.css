@@ -1,0 +1,21 @@
+
+@font-face {
+    font-family: 'ChangaLight';
+     src: url('../fonts/changa/Changa-Light.ttf') format('truetype');
+         font-weight: normal;
+         font-style: normal;
+}
+
+@font-face {
+    font-family: 'ChangaRegular';
+     src: url('../fonts/changa/Changa-Regular.ttf') format('truetype');
+         font-weight: normal;
+         font-style: normal;
+}
+
+@font-face {
+    font-family: 'ChangaBold';
+    src: url('../fonts/changa/Changa-SemiBold.ttf') format('truetype');
+         font-weight: normal;
+         font-style: normal;
+}
