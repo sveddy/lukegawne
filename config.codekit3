@@ -1857,6 +1857,12 @@
 		"oAP": "\/prices.html",
 		"oF": 0
 		},
+	"\/Procfile": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Procfile",
+		"oF": 0
+		},
 	"\/sass\/modules\/_variables.sass": {
 		"aP": 0,
 		"bl": 0,
