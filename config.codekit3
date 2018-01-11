@@ -1775,6 +1775,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/public\/img\/album.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/public\/img\/album.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/public\/img\/icon-footer-facebook-white.svg": {
 		"ft": 2097152,
 		"miP": 0,

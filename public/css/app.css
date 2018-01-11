@@ -105,7 +105,7 @@ a {
     .hero-unit .album__image {
       flex: 2;
       opacity: .6;
-      background-image: url("../img/album.jpg");
+      background-image: url("../img/album.png");
       background-size: 158%;
       background-position: -61px -10px; }
     .hero-unit .album__content {
