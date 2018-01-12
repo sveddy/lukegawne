@@ -82,7 +82,7 @@ a {
     background-image: url("../img/icon-footer-instagram-white.svg"); }
 
 .hero-unit {
-  background-image: url("../img/lg-bg.png");
+  background-image: url("../img/lg-bg.jpg");
   height: calc(100vh - 140px);
   width: 100%;
   background-size: cover; }
@@ -105,7 +105,7 @@ a {
     .hero-unit .album__image {
       flex: 2;
       opacity: .6;
-      background-image: url("../img/album.png");
+      background-image: url("../img/album.jpg");
       background-size: 158%;
       background-position: -61px -10px; }
     .hero-unit .album__content {
