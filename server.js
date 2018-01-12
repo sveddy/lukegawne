@@ -9,12 +9,21 @@ var path         = require('path'),
     fs           = require('fs'),
     bodyParser   = require('body-parser'),
     cors         = require('cors'),
-    request      = require('request');
+    request      = require('request'),
+    gzip         = require('express-static-gzip');
+
 
 // Init Express
 var app = express();
 
 // Enable cors
+app.use("/", gzip("/public", {
+    enableBrotli: true,
+    customCompressions: [{
+        encodingName: "deflate",
+        fileExtension: "zz"
+    }]
+}));
 app.use(cors());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
