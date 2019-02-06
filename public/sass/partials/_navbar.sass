@@ -1,0 +1,55 @@
+.logo-icon
+    background-image: url('../img/lg-icon.svg')
+    width: 300px
+    height: 44px
+    background-repeat: no-repeat
+    
+.menu-mobile
+    position: absolute
+    padding: 30px
+
+    .active
+        background: black
+
+    @media (min-width: 500px)
+            display: none
+
+    &__item
+        margin-left: 25px
+        margin-top: 20px
+
+    &__list
+        list-style: none
+        margin: 0px
+        padding: 0px
+
+    &__link 
+        color: white
+        font:
+            family: $changaRegular
+            size: 18px
+            weight: 500
+
+.menu
+    position: absolute
+    padding: 30px
+
+    @media (max-width: 500px)
+        display: none
+
+    &__item
+        margin-left: 25px
+        margin-top: 20px
+
+    &__list
+        list-style: none
+        margin: 0px
+        padding: 0px
+
+    &__link 
+        color: white
+        font:
+            family: $changaRegular
+            size: 18px
+            weight: 500
+    
